@@ -1,4 +1,4 @@
 #Me, Myself and I 
 
-Built with ImpresSJS. [View](http://dtsdwarak.github.io/aboutme) it here.
+Built with ImpressJS. [View](http://dtsdwarak.github.io/aboutme) it here.
 
