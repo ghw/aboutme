@@ -163,6 +163,7 @@
                           // because their CSS 3D support or hardware is not
                           // good enough to run impress.js properly, sorry...
                           // ( ua.search(/(iphone)|(ipod)|(android)/) === -1 );
+                           ( ua.search(/(zhemeban)|(zemekaiqi)|(qidongshebeia)/) === -1 );
     
     if (!impressSupported) {
         // we can't be sure that `classList` is supported
